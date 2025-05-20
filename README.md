@@ -1,4 +1,17 @@
-# So you want to make a Jellyfin plugin
+# Jellify Music Plugin
+
+A plugin for Jellyfin that supercharges the music listening experience. 
+
+Powered by [Essentia](https://essentia.upf.edu), this plugin will added a task that will gather additional information about music libraries, including a song's
+- Tempo
+- Key
+- "Feel"
+- "Genre"
+
+This information is then used when creating "Instant Mixes" to create a cohesive dynamic playlist.
+
+
+# Jellyfin Plugin Development Guide
 
 Awesome! This guide is for you. Jellyfin plugins are written using the dotnet standard framework. What that means is you can write them in any language that implements the CLI or the DLI and can compile to net8.0. The examples on this page are in C# because that is what most of Jellyfin is written in, but F#, Visual Basic, and IronPython should all be compatible once compiled.
 
