@@ -1,5 +1,7 @@
 # Jellify Music Plugin
 
+> This plugin is actively in development. Install instructions will be made available when they are ready!
+
 A plugin for Jellyfin that supercharges the music listening experience. 
 
 Powered by [Essentia](https://essentia.upf.edu), this plugin will added a task that will gather additional information about music libraries, including a song's
